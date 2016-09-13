@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Seekbar</string>
+    <string name="display_square">Display Square</string>
+    <string name="tap_square_instructions">Try to tap the square!</string>
 </resources>

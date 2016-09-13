@@ -21,4 +21,10 @@
         android:max="100"
         android:layout_below="@id/seek_bar_value_textview"
         />
+    <Button
+        android:id="@+id/display_square_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/seekBar"
+        android:text="@string/display_square"/>
 </RelativeLayout>
